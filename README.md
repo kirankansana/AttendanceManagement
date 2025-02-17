@@ -1,11 +1,11 @@
-# Face Recognition Attendance System
+# Students Face Recognition Attendance System
 This project is a Python-based attendance system that utilizes OpenCV and face recognition techniques to recognize faces and mark attendance in an Excel spreadsheet. The system captures images through a webcam, compares them with a pre-trained set of known faces, and records attendance for recognized individuals.
 
-# Features
+# Features and Components of Interests
 1. Real-time face recognition using OpenCV and deep learning models
 2. Attendance marking in an Excel spreadsheet
 
-# Installation
+# Simple Installation 
 Clone the repository to your local machine:
 Copy code
 git clone https://github.com/your-username/face-recognition-attendance.git
@@ -18,7 +18,7 @@ cd face-recognition-attendance
 Install python and all other necessary packages before running the project
 Download all the requirements from requirements.txt
 
-# Usage
+# How to run
 Make sure you have Python installed on your system.
 
 Update the attendance.py script and modify the file paths or configurations according to your needs.
@@ -42,7 +42,7 @@ Update the excel.py file to customize the Excel spreadsheet's format or add more
 
 Feel free to extend the project by training your own face recognition model or implementing additional features.
 
-# Acknowledgements
+# Acknowledgements/Resources
 OpenCV - Open Source Computer Vision Library
 
 face_recognition - Simple face recognition library
